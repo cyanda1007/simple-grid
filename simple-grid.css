@@ -186,6 +186,10 @@ p {
 .col-11-sm {
   width: 87.66%;
 }
+/* .City{
+  align-items: center;
+  justify-content: center; */
+
 h2{
   align-items: center;
   text-align: center;
@@ -336,11 +340,24 @@ table, td, th{
     display: block;
   
   }
+  h3{
+    align-items: center;
+    display: contents;
+    justify-content: center;
+  }
   .City{
-    margin-right: 10px;
+    padding: auto;
+  }
+  .language{
+    text-align: center;
+  }
+  .par{
+    margin-right: 5px;
+    padding: 5px;
   }
   .paris{
     float: left;
+    margin-right: 8px;
   }
   .palace{
     width: 29%;
